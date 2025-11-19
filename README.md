@@ -36,3 +36,19 @@ Este projeto foi desenvolvido como parte da disciplina **Tecnologias para Intern
 
 ### Página Fale Conosco
 ![Fale Conosco](assets/imagem4.png)
+
+- Acesse a pasta do projeto:
+  
+cd nome-do-repositorio
+
+- Abra o arquivo index.html no navegador:
+- Clique duas vezes no arquivo
+- Ou use uma extensão como Live Server no VS Code
+  
+📬 Contato
+Caso queira entrar em contato ou sugerir melhorias:
+- Email: danielwillys@gmail.com
+- LinkedIn: linkedin.com/in/dwcardozo
+  
+📄 Licença
+Este projeto é de uso acadêmico e está disponível sob a licença MIT.
